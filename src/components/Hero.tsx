@@ -96,7 +96,7 @@ export default function Hero() {
       {/* Background: Real Shop Exterior Photo */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/photos/WhatsApp Image 2026-07-30 at 11.53.27 PM (3).jpeg"
+          src="/vijay-traders/photos/WhatsApp Image 2026-07-30 at 11.53.27 PM (3).jpeg"
           alt="Vijay Traders shop exterior - front view with Vijay Traders signage"
           fill
           priority
@@ -145,7 +145,7 @@ export default function Hero() {
           }}
         >
           <Image
-            src="/photos/WhatsApp Image 2026-07-30 at 11.53.29 PM.jpeg"
+            src="/vijay-traders/photos/WhatsApp Image 2026-07-30 at 11.53.29 PM.jpeg"
             alt="TMT steel rebars and pipes at Vijay Traders"
             fill
             className="object-cover"
@@ -165,7 +165,7 @@ export default function Hero() {
           }}
         >
           <Image
-            src="/photos/WhatsApp Image 2026-07-30 at 11.53.28 PM.jpeg"
+            src="/vijay-traders/photos/WhatsApp Image 2026-07-30 at 11.53.28 PM.jpeg"
             alt="Sanitary ware showroom at Vijay Traders"
             fill
             className="object-cover"

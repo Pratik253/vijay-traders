@@ -50,7 +50,7 @@ export default function About() {
               }}
             >
               <Image
-                src="/photos/WhatsApp Image 2026-07-30 at 11.53.26 PM.jpeg"
+                src="/vijay-traders/photos/WhatsApp Image 2026-07-30 at 11.53.26 PM.jpeg"
                 alt="Vijay Traders store front - full view with signage and products"
                 fill
                 className="object-cover"
@@ -88,7 +88,7 @@ export default function About() {
               }}
             >
               <Image
-                src="/photos/WhatsApp Image 2026-07-30 at 11.53.28 PM (2).jpeg"
+                src="/vijay-traders/photos/WhatsApp Image 2026-07-30 at 11.53.28 PM (2).jpeg"
                 alt="Inside the Vijay Traders main counter"
                 fill
                 className="object-cover"
@@ -245,7 +245,7 @@ export default function About() {
               }}
             >
               <Image
-                src="/photos/WhatsApp Image 2026-07-30 at 11.53.28 PM (2).jpeg"
+                src="/vijay-traders/photos/WhatsApp Image 2026-07-30 at 11.53.28 PM (2).jpeg"
                 alt="Shop owners at Vijay Traders counter providing expert advice"
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-105"
@@ -272,7 +272,7 @@ export default function About() {
               }}
             >
               <Image
-                src="/photos/WhatsApp Image 2026-07-30 at 11.53.29 PM (1).jpeg"
+                src="/vijay-traders/photos/WhatsApp Image 2026-07-30 at 11.53.29 PM (1).jpeg"
                 alt="Vijay Traders field workers ready to serve"
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-105"

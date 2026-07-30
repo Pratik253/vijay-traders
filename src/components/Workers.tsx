@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 const workers = [
   {
-    photo: '/photos/WhatsApp Image 2026-07-30 at 11.53.29 PM (1).jpeg',
+    photo: '/vijay-traders/photos/WhatsApp Image 2026-07-30 at 11.53.29 PM (1).jpeg',
     title: 'Our Dedicated Field Team',
     description: 'These three hardworking team members are the backbone of Vijay Traders — handling heavy materials, loading deliveries, arranging inventory, and keeping the yard in perfect order every single day.',
     stats: [
@@ -13,7 +13,7 @@ const workers = [
     side: 'left',
   },
   {
-    photo: '/photos/WhatsApp Image 2026-07-30 at 11.53.30 PM (1).jpeg',
+    photo: '/vijay-traders/photos/WhatsApp Image 2026-07-30 at 11.53.30 PM (1).jpeg',
     title: 'Always Ready to Serve',
     description: 'With years of experience handling building materials, our team knows every product inside out. Whether it\'s loading TMT steel, arranging pipe sections or unloading cement bags — they do it with dedication and care.',
     stats: [
@@ -179,7 +179,7 @@ export default function Workers() {
             {/* Photo */}
             <div className="relative" style={{ minHeight: '420px' }}>
               <Image
-                src="/photos/WhatsApp Image 2026-07-30 at 11.53.30 PM (1).jpeg"
+                src="/vijay-traders/photos/WhatsApp Image 2026-07-30 at 11.53.30 PM (1).jpeg"
                 alt="Vijay Traders senior staff member at the counter"
                 fill
                 className="object-cover"
